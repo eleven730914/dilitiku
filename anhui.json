@@ -1,0 +1,152 @@
+[
+  {
+    "id": "mcq_ah_1",
+    "stem": "图中森林的作用主要是（     ）",
+    "image_url_1": "[图 哈尼梯田生态系统示意图]",
+    "image_url_2": null,
+    "option_a": "涵养水源",
+    "option_b": "防风固沙",
+    "option_c": "提供木材",
+    "option_d": "净化空气",
+    "correct_answer": null,
+    "knowledge_point_1": null,
+    "knowledge_point_2": null,
+    "explanation": null,
+    "difficulty": null
+  },
+  {
+    "id": "mcq_ah_2",
+    "stem": "该地梯田种植的粮食作物主要是（     ）",
+    "image_url_1": "[图 哈尼梯田生态系统示意图]", // 假设与上一题共用引言中的图
+    "image_url_2": "[图 选项中的作物图片，需区分]", // 选项A和C有图，这里需要您具体指定哪个是image_url_1, 哪个是image_url_2，或整合
+    "option_a": "小麦",
+    "option_b": "玉米",
+    "option_c": "水稻",
+    "option_d": "甘蔗",
+    "correct_answer": null,
+    "knowledge_point_1": null,
+    "knowledge_point_2": null,
+    "explanation": null,
+    "difficulty": null
+  },
+  {
+    "id": "mcq_ah_3",
+    "stem": "影响人工智能技术产业发展的最主要因素是",
+    "image_url_1": null,
+    "image_url_2": null,
+    "option_a": "交通运输",
+    "option_b": "科技人才",
+    "option_c": "原料能源",
+    "option_d": "人口数量",
+    "correct_answer": null,
+    "knowledge_point_1": null,
+    "knowledge_point_2": null,
+    "explanation": null,
+    "difficulty": null
+  },
+  {
+    "id": "mcq_ah_4",
+    "stem": "目前，在日常生活中人工智能技术应用场景有：①酒店机器人送餐；②物流自动分拣货物；③智能辅助驾驶；④完全取代教师",
+    "image_url_1": null,
+    "image_url_2": null,
+    "option_a": "①②③",
+    "option_b": "②③④",
+    "option_c": "①③④",
+    "option_d": "①②④",
+    "correct_answer": null,
+    "knowledge_point_1": null,
+    "knowledge_point_2": null,
+    "explanation": null,
+    "difficulty": null
+  },
+  {
+    "id": "mcq_ah_5",
+    "stem": "当地适合提纯锂矿的月份是（     ）",
+    "image_url_1": "[图 阿根廷盐湖地区气候资料]",
+    "image_url_2": null,
+    "option_a": "1月",
+    "option_b": "4月",
+    "option_c": "7月",
+    "option_d": "10月",
+    "correct_answer": null,
+    "knowledge_point_1": null,
+    "knowledge_point_2": null,
+    "explanation": null,
+    "difficulty": null
+  },
+  {
+    "id": "mcq_ah_6",
+    "stem": "阿根廷盐湖项目提纯锂元素的有利条件是（     ）",
+    "image_url_1": "[图 阿根廷盐湖地区气候资料]", // 假设与上一题共用引言中的图
+    "image_url_2": null,
+    "option_a": "高素质劳动力较多",
+    "option_b": "干季较长利于晾晒",
+    "option_c": "生产工艺较为复杂",
+    "option_d": "基础设施较为完善",
+    "correct_answer": null,
+    "knowledge_point_1": null,
+    "knowledge_point_2": null,
+    "explanation": null,
+    "difficulty": null
+  },
+  {
+    "id": "mcq_ah_7",
+    "stem": "盐湖项目建设可能遇到的困难有（     ）\n①极度严寒②空气稀薄③降水量多④语言不通",
+    "image_url_1": "[图 阿根廷盐湖地区气候资料]", // 假设与上一题共用引言中的图
+    "image_url_2": null,
+    "option_a": "①②③",
+    "option_b": "①②④",
+    "option_c": "①③④",
+    "option_d": "②③④",
+    "correct_answer": null,
+    "knowledge_point_1": null,
+    "knowledge_point_2": null,
+    "explanation": null,
+    "difficulty": null
+  },
+  {
+    "id": "mcq_ah_8",
+    "stem": "引江济淮工程穿过安徽省哪些地形区（     ）\n①淮北平原②江淮丘陵③沿江平原④皖南山区",
+    "image_url_1": "[图 引江济淮工程线路简图和工程资料卡]",
+    "image_url_2": null,
+    "option_a": "②③④",
+    "option_b": "①③④",
+    "option_c": "①②④",
+    "option_d": "①②③",
+    "correct_answer": null,
+    "knowledge_point_1": null,
+    "knowledge_point_2": null,
+    "explanation": null,
+    "difficulty": null
+  },
+  {
+    "id": "mcq_ah_9",
+    "stem": "关于引江济淮工程叙述，正确的是（     ）",
+    "image_url_1": "[图 引江济淮工程线路简图和工程资料卡]", // 假设与上一题共用引言中的图
+    "image_url_2": null,
+    "option_a": "压力管道输水线路占工程总长<10%",
+    "option_b": "工程全线路穿过了湿润区和半湿润区",
+    "option_c": "施工总量较小",
+    "option_d": "全程自流供水",
+    "correct_answer": null,
+    "knowledge_point_1": null,
+    "knowledge_point_2": null,
+    "explanation": null,
+    "difficulty": null
+  },
+  {
+    "id": "mcq_ah_10",
+    "stem": "引江济淮工程对巢湖湿地的影响有（     ）",
+    "image_url_1": "[图 引江济淮工程线路简图和工程资料卡]", // 假设与上一题共用引言中的图
+    "image_url_2": null,
+    "option_a": "防风固沙效益显著增加",
+    "option_b": "湖泊水质得到改善",
+    "option_c": "补充淮河流域水量，加大淮河防洪压力",
+    "option_d": "物种多样性下降",
+    "correct_answer": null,
+    "knowledge_point_1": null,
+    "knowledge_point_2": null,
+    "explanation": null,
+    "difficulty": null
+  }
+]
