@@ -1,0 +1,512 @@
+[
+  {
+    "id": "mcq_tz_1",
+    "question_number": 1,
+    "topic_group_intro": "兴化市位于泰州市北部、江苏省里下河腹地，经纬度位置为北纬32°40′—33°13′，东经119°43′—120°16′ ‌‌ 。这里地势低平，河网密布，有“鱼米之乡”之称。读图1，完成1-3题。",
+    "related_image_references": ["图1"],
+    "stem": "有关兴化的地理位置，说法错误的是",
+    "options": {
+      "A": "低纬度",
+      "B": "北半球",
+      "C": "东半球",
+      "D": "北温带"
+    },
+    "points": 0.5,
+    "correct_answer": null, // 考试版通常不含答案
+    "explanation": null,    // 考试版通常不含解析
+    "knowledge_point": null // 可后续补充知识点标签
+  },
+  {
+    "id": "mcq_tz_2",
+    "question_number": 2,
+    "topic_group_intro": "兴化市位于泰州市北部、江苏省里下河腹地，经纬度位置为北纬32°40′—33°13′，东经119°43′—120°16′ ‌‌ 。这里地势低平，河网密布，有“鱼米之乡”之称。读图1，完成1-3题。",
+    "related_image_references": ["图1"],
+    "stem": "从图中可以看出，兴化市的平均年降水量大约为",
+    "options": {
+      "A": "小于200mm",
+      "B": "300-400mm",
+      "C": "400-800mm",
+      "D": "大于800mm"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_3",
+    "question_number": 3,
+    "topic_group_intro": "兴化市位于泰州市北部、江苏省里下河腹地，经纬度位置为北纬32°40′—33°13′，东经119°43′—120°16′ ‌‌ 。这里地势低平，河网密布，有“鱼米之乡”之称。读图1，完成1-3题。",
+    "related_image_references": ["图1"],
+    "stem": "春节期间，小明去兴化旅游，沿途看到农田里广泛生长的粮食作物是",
+    "options": {
+      "A": "水稻",
+      "B": "小麦",
+      "C": "大豆",
+      "D": "油菜"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_4",
+    "question_number": 4,
+    "topic_group_intro": "2024年5月3日，我国“嫦娥六号”月球探测器在海南文昌卫星发射中心搭乘长征五号遥八运载火箭成功发射，并计划于6月2日在月球背面实现软着陆、发射后53天实现返回！这将是人类首次对月背面土壤进行采集和返回研究，标志着我国探月计划进入了新时代。图2地球公转图示意图，图3海南文昌的位置示意图。 完成4-6题。",
+    "related_image_references": ["图2", "图3"],
+    "stem": "同学们在关注嫦娥六号探测器从发射到返回期间，经历的节气是",
+    "options": {
+      "A": "春分",
+      "B": "夏至",
+      "C": "秋分",
+      "D": "冬至"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_5",
+    "question_number": 5,
+    "topic_group_intro": "2024年5月3日，我国“嫦娥六号”月球探测器在海南文昌卫星发射中心搭乘长征五号遥八运载火箭成功发射，并计划于6月2日在月球背面实现软着陆、发射后53天实现返回！这将是人类首次对月背面土壤进行采集和返回研究，标志着我国探月计划进入了新时代。图2地球公转图示意图，图3海南文昌的位置示意图。 完成4-6题。",
+    "related_image_references": ["图2", "图3"],
+    "stem": "据图3可知，海南岛的自然环境特征是",
+    "options": {
+      "A": "植被茂密，多温带作物",
+      "B": "全年炎热干燥",
+      "C": "河流稀少，多内流河",
+      "D": "地势中部高四周低"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_6",
+    "question_number": 6,
+    "topic_group_intro": "2024年5月3日，我国“嫦娥六号”月球探测器在海南文昌卫星发射中心搭乘长征五号遥八运载火箭成功发射，并计划于6月2日在月球背面实现软着陆、发射后53天实现返回！这将是人类首次对月背面土壤进行采集和返回研究，标志着我国探月计划进入了新时代。图2地球公转图示意图，图3海南文昌的位置示意图。 完成4-6题。",
+    "related_image_references": ["图2", "图3"],
+    "stem": "嫦娥六号探测器从发射到着陆月球背面期间，泰州市的市民可感受到",
+    "options": {
+      "A": "白昼渐长",
+      "B": "昼夜等长",
+      "C": "昼短夜长",
+      "D": "出现极昼"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_7",
+    "question_number": 7,
+    "topic_group_intro": "五一假期，家住泰州某广场附近的小茗同学经常去广场游玩，图4为广场平面示意图。据此完成7-9题。",
+    "related_image_references": ["图4", "图5"],
+    "stem": "5 月 1 日正午时小茗同学观测到的广场石柱的影子如图 5 所示，此时贝贝位于图 4 中",
+    "options": {
+      "A": "①",
+      "B": "②",
+      "C": "③",
+      "D": "④"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_8",
+    "question_number": 8,
+    "topic_group_intro": "五一假期，家住泰州某广场附近的小茗同学经常去广场游玩，图4为广场平面示意图。据此完成7-9题。",
+    "related_image_references": ["图4"],
+    "stem": "五一假期期间，小茗发现正午时广场石柱的影子长度变化是",
+    "options": {
+      "A": "逐渐变短",
+      "B": "逐渐变长",
+      "C": "先变长后变短",
+      "D": "先变短后变长"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_9",
+    "question_number": 9,
+    "topic_group_intro": "五一假期，家住泰州某广场附近的小茗同学经常去广场游玩，图4为广场平面示意图。据此完成7-9题。",
+    "related_image_references": ["图4"],
+    "stem": "观测点①位于观测点④的什么方向。",
+    "options": {
+      "A": "西北",
+      "B": "东南",
+      "C": "东北",
+      "D": "西南"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_10",
+    "question_number": 10,
+    "topic_group_intro": "2024年2月7日，中国南极秦岭站（74°56'S，163°42'E）建成并投入使用，在这里可以开展大气科学、冰川学等学科的观测与研究，填补了我国在太平洋扇区观测的空白。图6为我国南极地区科考站位置示意图。据此完成10-12题。",
+    "related_image_references": ["图6"],
+    "stem": "南极秦岭站位于图中",
+    "options": {
+      "A": "①地",
+      "B": "②地",
+      "C": "③地",
+      "D": "④地"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_11",
+    "question_number": 11,
+    "topic_group_intro": "2024年2月7日，中国南极秦岭站（74°56'S，163°42'E）建成并投入使用，在这里可以开展大气科学、冰川学等学科的观测与研究，填补了我国在太平洋扇区观测的空白。图6为我国南极地区科考站位置示意图。据此完成10-12题。",
+    "related_image_references": ["图6"],
+    "stem": "南极秦岭站建立的意义有  ①开发旅游资源②研究气候变化③加快资源开采④评估生态环境",
+    "options": {
+      "A": "①④",
+      "B": "②③",
+      "C": "①③",
+      "D": "②④"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_12",
+    "question_number": 12,
+    "topic_group_intro": "2024年2月7日，中国南极秦岭站（74°56'S，163°42'E）建成并投入使用，在这里可以开展大气科学、冰川学等学科的观测与研究，填补了我国在太平洋扇区观测的空白。图6为我国南极地区科考站位置示意图。据此完成10-12题。",
+    "related_image_references": ["图6"],
+    "stem": "“绿色考察”理念贯穿秦岭站设计、建设全过程，建设者优先采用南极地区的清洁能源是",
+    "options": {
+      "A": "核能、水能",
+      "B": "风能、地热能",
+      "C": "风能、太阳能",
+      "D": "太阳能、生物能"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_13",
+    "question_number": 13,
+    "topic_group_intro": "“雨舌”是指等降水量线呈“舌头”状向降水量多的地方延伸的现象。下图示意青藏地区的一个“雨舌”，“雨舌”中的墨脱是我国最后一个通公路的县。下图中数字表示降水量。据此完成13-15题。",
+    "related_image_references": ["图7"],
+    "stem": "图示“雨舌”的水汽主要来自",
+    "options": {
+      "A": "太平洋",
+      "B": "印度洋",
+      "C": "大西洋",
+      "D": "北冰洋"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_14",
+    "question_number": 14,
+    "topic_group_intro": "“雨舌”是指等降水量线呈“舌头”状向降水量多的地方延伸的现象。下图示意青藏地区的一个“雨舌”，“雨舌”中的墨脱是我国最后一个通公路的县。下图中数字表示降水量。据此完成13-15题。",
+    "related_image_references": ["图7"],
+    "stem": "墨脱修建道路困难，主要自然原因是   ①经济落后②山高谷深③洪涝灾害④人口稀少",
+    "options": {
+      "A": "①②",
+      "B": "②③",
+      "C": "③④",
+      "D": "①④"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_15",
+    "question_number": 15,
+    "topic_group_intro": "“雨舌”是指等降水量线呈“舌头”状向降水量多的地方延伸的现象。下图示意青藏地区的一个“雨舌”，“雨舌”中的墨脱是我国最后一个通公路的县。下图中数字表示降水量。据此完成13-15题。",
+    "related_image_references": ["图7"],
+    "stem": "暑假从夏日炎炎的成都出发，到达拉萨时充满春天气息，这主要因为",
+    "options": {
+      "A": "深入内陆",
+      "B": "靠近海洋",
+      "C": "纬度增高",
+      "D": "地势抬升"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_16",
+    "question_number": 16,
+    "topic_group_intro": "ChatGPT是人工智能技术驱动的自然语言处理工具，于2022年由美国人工智能研究公司OpenAI发布。OpenAI总部位于美国硅谷，专注于智能机器人技术的研发。下图为美国硅谷位置图。据此完成16-18题。",
+    "related_image_references": ["图8"],
+    "stem": "美国ChatGPT与我国自主研发的deepseek都属于",
+    "options": {
+      "A": "信息技术产业",
+      "B": "生物技术产业",
+      "C": "新材料技术产业",
+      "D": "新能源技术产业"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_17",
+    "question_number": 17,
+    "topic_group_intro": "ChatGPT是人工智能技术驱动的自然语言处理工具，于2022年由美国人工智能研究公司OpenAI发布。OpenAI总部位于美国硅谷，专注于智能机器人技术的研发。下图为美国硅谷位置图。据此完成16-18题。",
+    "related_image_references": ["图8"],
+    "stem": "硅谷研发出 ChatGPT 人工智能的最有利条件是",
+    "options": {
+      "A": "交通便利",
+      "B": "地理位置优越",
+      "C": "科学技术",
+      "D": "矿产资源丰富"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_18",
+    "question_number": 18,
+    "topic_group_intro": "ChatGPT是人工智能技术驱动的自然语言处理工具，于2022年由美国人工智能研究公司OpenAI发布。OpenAI总部位于美国硅谷，专注于智能机器人技术的研发。下图为美国硅谷位置图。据此完成16-18题。",
+    "related_image_references": ["图8"],
+    "stem": "推测图例甲最可能是",
+    "options": {
+      "A": "沿海码头",
+      "B": "城市公园",
+      "C": "公交站台",
+      "D": "高等院校"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_19",
+    "question_number": 19,
+    "topic_group_intro": "长江经济带坚持生态优先、绿色发展。读图9，完成19-21题。",
+    "related_image_references": ["图9"],
+    "stem": "长江保持水土功能最强的河段是",
+    "options": {
+      "A": "上游",
+      "B": "中游",
+      "C": "下游",
+      "D": "河口"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_20",
+    "question_number": 20,
+    "topic_group_intro": "长江经济带坚持生态优先、绿色发展。读图9，完成19-21题。",
+    "related_image_references": ["图9"],
+    "stem": "长江调蓄水量最强的河段集中于中游地区，主要因为",
+    "options": {
+      "A": "河道变宽",
+      "B": "港口密布",
+      "C": "湖泊众多",
+      "D": "森林茂密"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_21",
+    "question_number": 21,
+    "topic_group_intro": "长江经济带坚持生态优先、绿色发展。读图9，完成19-21题。",
+    "related_image_references": ["图9"],
+    "stem": "若长江上游的生物栖息地功能下降，直接引发的突出生态问题是",
+    "options": {
+      "A": "土壤污染",
+      "B": "水体污染",
+      "C": "旱涝灾害",
+      "D": "物种锐减"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_22",
+    "question_number": 22,
+    "topic_group_intro": "冰岛因冰原和火山广布而被称为“冰与火之岛”。图10为冰岛地形及板块位置示意图，图11为冰岛能源使用结构图。读图完成22-25题。",
+    "related_image_references": ["图10", "图11"],
+    "stem": "有关“冰岛”的说法正确的是",
+    "options": {
+      "A": "首都雷克雅未克位于东半球",
+      "B": "河流呈放射状流入太平洋",
+      "C": "位于北极圈以北可观赏极光",
+      "D": "主要的交通线呈环状分布"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_23",
+    "question_number": 23,
+    "topic_group_intro": "冰岛因冰原和火山广布而被称为“冰与火之岛”。图10为冰岛地形及板块位置示意图，图11为冰岛能源使用结构图。读图完成22-25题。",
+    "related_image_references": ["图10", "图11"],
+    "stem": "冰原和火山广布的原因是①纬度高，气温低②全年极夜时间长③位于板块交界处④岛屿上河流短小",
+    "options": {
+      "A": "①③",
+      "B": "①④",
+      "C": "②③",
+      "D": "②④"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_24",
+    "question_number": 24,
+    "topic_group_intro": "冰岛因冰原和火山广布而被称为“冰与火之岛”。图10为冰岛地形及板块位置示意图，图11为冰岛能源使用结构图。读图完成22-25题。",
+    "related_image_references": ["图10", "图11"],
+    "stem": "冰岛天空蔚蓝、环境整洁，看不到烟囱，是因为",
+    "options": {
+      "A": "水能资源使用占比最高",
+      "B": "禁止使用煤和石油",
+      "C": "清洁能源的使用比重大",
+      "D": "全部使用新能源汽车"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_25",
+    "question_number": 25,
+    "topic_group_intro": "红叶是观赏类树木的叶子。观赏红叶已成为休闲旅游的一大特色项目。图12为“我国东部地区红叶最佳观赏期示意图，完成25-27题。",
+    "related_image_references": ["图12"],
+    "stem": "到北京观赏红叶的最佳月份是",
+    "options": {
+      "A": "9月",
+      "B": "10月",
+      "C": "11月",
+      "D": "12月"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_26",
+    "question_number": 26,
+    "topic_group_intro": "红叶是观赏类树木的叶子。观赏红叶已成为休闲旅游的一大特色项目。图12为“我国东部地区红叶最佳观赏期示意图，完成25-27题。",
+    "related_image_references": ["图12"],
+    "stem": "庐山山麓地带的天然植被是",
+    "options": {
+      "A": "热带雨林",
+      "B": "常绿阔叶林",
+      "C": "落叶阔叶林",
+      "D": "常绿硬叶林"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_27",
+    "question_number": 27,
+    "topic_group_intro": "红叶是观赏类树木的叶子。观赏红叶已成为休闲旅游的一大特色项目。图12为“我国东部地区红叶最佳观赏期示意图，完成25-27题。",
+    "related_image_references": ["图12"],
+    "stem": "结合我国东部最佳观赏期的变化情况分析，影响武汉和太原观赏红叶时间差异的主要因素是",
+    "options": {
+      "A": "纬度因素",
+      "B": "海陆因素",
+      "C": "地形因素",
+      "D": "人类活动"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_28",
+    "question_number": 28,
+    "topic_group_intro": "河西走廊是一条东西方文化交流的重要通道。如图示意“河西走廊”。据此完成28-30题。",
+    "related_image_references": ["图13"],
+    "stem": "河西走廊的“河西”是指",
+    "options": {
+      "A": "黄河以西",
+      "B": "汾河以西",
+      "C": "黑河以西",
+      "D": "淮河以西"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_29",
+    "question_number": 29,
+    "topic_group_intro": "河西走廊是一条东西方文化交流的重要通道。如图示意“河西走廊”。据此完成28-30题。",
+    "related_image_references": ["图13"],
+    "stem": "该地区人口、城市多分布在绿洲，其水源主要来自",
+    "options": {
+      "A": "大气降水",
+      "B": "河流湖泊水",
+      "C": "高山冰雪融水",
+      "D": "深层地下水"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  },
+  {
+    "id": "mcq_tz_30",
+    "question_number": 30,
+    "topic_group_intro": "河西走廊是一条东西方文化交流的重要通道。如图示意“河西走廊”。据此完成28-30题。",
+    "related_image_references": ["图13"],
+    "stem": "为保护该地区脆弱的生态环境，下列措施正确的是",
+    "options": {
+      "A": "增加人口数量",
+      "B": "发展节水农业",
+      "C": "大力开垦绿洲",
+      "D": "推广大水漫灌"
+    },
+    "points": 0.5,
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
+  }
+]
