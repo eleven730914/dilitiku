@@ -12,9 +12,9 @@
       "D": "北温带"
     },
     "points": 0.5,
-    "correct_answer": null, // 考试版通常不含答案
-    "explanation": null,    // 考试版通常不含解析
-    "knowledge_point": null // 可后续补充知识点标签
+    "correct_answer": null,
+    "explanation": null,
+    "knowledge_point": null
   },
   {
     "id": "mcq_tz_2",
