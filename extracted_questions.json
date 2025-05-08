@@ -1,0 +1,318 @@
+[
+    {
+        "UniqueID": "594fae8a-b963-4814-90bb-0b9bb02d41c3",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "1",
+        "Stem": "2025年1月29日为春节，此时地球运动至（   ）",
+        "Options": {
+            "A": "①②之间\tB．②③之间\tC．③④之间\tD．④①之间"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "70beb766-7efb-43f8-b8da-14efeabc38f3",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "2",
+        "Stem": "当地球运动至②位置时，北京最可能看到的景观是（   ）",
+        "Options": {
+            "A": "接天莲叶无穷碧，映日荷花别样红\tB．平明走马上村桥，花落梅溪雪未消",
+            "C": "不知细叶谁裁出，二月春风似剪刀\tD．银烛秋光冷画屏，轻罗小扇扑流萤"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "c1f71a04-0645-4207-bd63-785c1a509b26",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "3",
+        "Stem": "世界1月适宜避寒区主要分布的范围是（   ）",
+        "Options": {
+            "A": "10℃~20℃\tB．0℃~10℃",
+            "C": "20℃~30℃\tD．-10℃~0℃"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "3915615d-8660-4d09-a268-cba079fe58ff",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "4",
+        "Stem": "以下说法正确的是（   ）",
+        "Options": {
+            "A": "冬季同纬度的a地比b地气温高",
+            "B": "为避寒亚欧大陆墙壁厚度自西向东越来越薄",
+            "C": "b地的等温线比a地更曲折",
+            "D": "乙不是避寒胜地的原因是终年高温干燥"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "eaae8de7-61f2-4b54-bc9f-82835975fb12",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "5",
+        "Stem": "世界人口分布比重随纬度变化的规律是（   ）",
+        "Options": {
+            "A": "随纬度增加人口数量逐渐增多\tB．由南往北人口数量逐渐增加",
+            "C": "主要分布在北半球的中低纬度\tD．人口均匀分布在各纬度地区"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "71de9dfb-83cc-431d-b1b0-fb8c1204b3ba",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "6",
+        "Stem": "影响世界人口分布比重随纬度变化的主要因素是（   ）",
+        "Options": {
+            "A": "地形\tB．河流\tC．热量\tD．矿产"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "aa379c75-e0e1-4501-85ef-1017933e9092",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "7",
+        "Stem": "下列关于图中三大半岛共同特征的叙述，正确的是（   ）",
+        "Options": {
+            "A": "人口分布稀疏\tB．旱涝灾害频繁",
+            "C": "以黄色人种为主\tD．北回归线穿过"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "e406d233-13b9-4433-ba0c-84844246f908",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "8",
+        "Stem": "下列关于图中三大半岛自然环境的差异，说法正确的是（   ）",
+        "Options": {
+            "A": "印度半岛主要为热带沙漠气候\tB．中南半岛主要为热带季风气候",
+            "C": "阿拉伯半岛河流注入太平洋\tD．印度半岛沙漠广布"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "c355b263-19f0-4658-afb6-52c2b3e5dc65",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "9",
+        "Stem": "图中四个馆所在省区及简称、行政中心，搭配正确的是（   ）",
+        "Options": {
+            "A": "北京市—津—北京\tB．陕西省—晋—西安",
+            "C": "浙江省—浙—杭州\tD．广东省—闽—广州"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "68b16c92-61c3-4627-b7d5-12cfbd893184",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "10",
+        "Stem": "四个馆所在地区，当地年平均降水量在800毫米以下的是（   ）\n①北京总馆②西安分馆③杭州分馆④广州分馆",
+        "Options": {
+            "A": "①③\tB．②④\tC．①②\tD．②③"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "68d866f3-a346-49a5-a90f-4f6987318c2b",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "11",
+        "Stem": "该区域气候干旱少雨主要影响河流（   ）",
+        "Options": {
+            "A": "流向\tB．流量大小\tC．流速快慢\tD．结冰期"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "50e0e13c-16d7-4701-bd11-71ac785f33f4",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "12",
+        "Stem": "下列属于①和②两条河流共同特点的是（   ）",
+        "Options": {
+            "A": "都属内流河\tB．含沙量都很大",
+            "C": "汛期都较长\tD．都有结冰期"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "ff7f5961-7d84-4b7c-b50e-70fad0542f0d",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "13",
+        "Stem": "下列流域中“最抗冻”的地区主要分布在（   ）",
+        "Options": {
+            "A": "松花江流域\tB．黄河流域\tC．塔里木河流域\tD．长江流域"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "6bc16f55-5763-43d4-8b3b-733a663b1ec1",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "14",
+        "Stem": "使人们一夜之间由夏装转为冬装的特殊天气可能是（   ）",
+        "Options": {
+            "A": "伏旱\tB．梅雨\tC．台风\tD．寒潮"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "dd77d66e-80dd-4279-b084-493e4543608b",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "15",
+        "Stem": "该工程中沉沙池的作用是（   ）",
+        "Options": {
+            "A": "减小水的流速\tB．减少河流中泥沙的含量",
+            "C": "扩大水流面积\tD．为了优质水源"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "f74d0de1-a581-4486-9ca6-1c1270bc47f9",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "16",
+        "Stem": "在引黄工程中保持水源洁净的有效措施有（   ）\n①植树种草②退耕还林还草③打坝淤地\n④缓坡修建梯田⑤调节河流径流量",
+        "Options": {
+            "A": "①②⑤\tB．②③④⑤\tC．①②③④\tD．①②④"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "8ecf70bc-2589-4d0f-b636-1a6609b29aea",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "17",
+        "Stem": "图中交通运输方式搭配合理的是（   ）",
+        "Options": {
+            "A": "甲——水运\tB．乙——公路\tC．丙——铁路\tD．丁——航空"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "f7067235-77a3-400c-8e95-b2a66c445128",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "18",
+        "Stem": "下列运输任务与适宜的运输方式，搭配正确的是（   ）",
+        "Options": {
+            "A": "从山东青岛运1吨海鲜到济南——甲",
+            "B": "5000吨大米由四川运往湖南——乙",
+            "C": "一箱急救药由长沙运往拉萨——丙",
+            "D": "一批从俄罗斯进口的木材由中俄蒙三角地带的满洲里口岸发往天津——丁"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "d56fa71d-f642-4a22-96da-b02d9b28c91e",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "19",
+        "Stem": "下列有关盐城的说法正确的是（   ）",
+        "Options": {
+            "A": "上海游客经青盐铁路直达盐城\tB．盐城山水相连，旅游资源丰富",
+            "C": "盐城全部属于南方地区\tD．盐城被称为“东方湿地之都”"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    },
+    {
+        "UniqueID": "aa9aac92-84d2-4c19-8193-94f60f3b2893",
+        "QuestionType": "Single",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "OriginalQuestionNumber": "20",
+        "Stem": "暑假期间，小明想了解盐城的红色文化，你推荐他去（   ）",
+        "Options": {
+            "A": "大洋湾湿地公园\tB．新四军纪念馆",
+            "C": "东台条子泥湿地公园\tD．盐城国家珍食自然保护区"
+        },
+        "ImageFileNames": [],
+        "CorrectAnswer": null,
+        "Explanation": null,
+        "Difficulty": null,
+        "KnowledgePoint": null
+    }
+]
