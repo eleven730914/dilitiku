@@ -1,0 +1,48 @@
+[
+  {
+    "stem": "以下说法正确的是（   ）",
+    "options": {
+      "A": "冬季同纬度的a地比b地气温高",
+      "B": "为避寒亚欧大陆墙壁厚度自西向东越来越薄",
+      "C": "b地的等温线比a地更曲折",
+      "D": "乙不是避寒胜地的原因是终年高温干燥"
+    },
+    "associated_images": [
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_000.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_001.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_002.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_003.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_004.png"
+    ]
+  },
+  {
+    "stem": "下列运输任务与适宜的运输方式，搭配正确的是（   ）",
+    "options": {
+      "A": "从山东青岛运1吨海鲜到济南——甲",
+      "B": "5000吨大米由四川运往湖南——乙",
+      "C": "一箱急救药由长沙运往拉萨——丙",
+      "D": "一批从俄罗斯进口的木材由中俄蒙三角地带的满洲里口岸发往天津——丁"
+    },
+    "associated_images": [
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_005.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_006.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_007.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_008.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_009.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_010.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_011.png"
+    ]
+  },
+  {
+    "stem": "阅读材料，回答下列问题。（5分）\n材料一：港珠澳大桥是一个全长55千米，集路、桥、岛、隧道为一体的工程，是粤港澳三地首次合作建设的大型基础设施，通车后极大地缩短了港珠澳三地间的距离。\n材料二：如图所示。\n[IMAGE:地理（江苏盐城卷）（考试版）(1)_image_014.png]\n(1)填出图中序号的名称：②    特别行政区，A    铁路。（2分）\n(2)修建港珠澳大桥可能会遇到的气象灾害是    。（1分）\n(3)港珠澳大桥建成通车后，有利于    工业基地的发展。（1分）\n(4)港澳地区与内地经济合作的优势是（    ）（1分）",
+    "options": {
+      "A": "地域广阔，劳动力丰富\tB．位置优越，资源丰富",
+      "C": "农业历史悠久，基础雄厚\tD．资金充足，管理经验丰富"
+    },
+    "associated_images": [
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_012.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_013.png",
+      "extracted_images/地理（江苏盐城卷）（考试版）(1)_image_014.png"
+    ]
+  }
+]
