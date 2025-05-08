@@ -1,0 +1,246 @@
+[
+    {
+        "UniqueID": "63f1086a-b09d-4070-85ec-637a4e772ff3",
+        "QuestionType": "Series",
+        "SourceExamName": "2025年中考第一次模拟考试（江苏盐城卷）",
+        "SeriesMaterialText": "中国申报的“春节——中国人庆祝传统新年的社会实践”，12月4日在巴拉圭亚松森举行的联合国教科文组织保护非物质文化遗产政府间委员会第19届常会上通过审批，列入联合国科教文组织人类非物质文化遗产代表作名录。读“地球的公转示意图”",
+        "SubQuestions": [
+            {
+                "SubQ_NumberOriginal": "1．",
+                "SubQ_Number": "1",
+                "SubQ_Stem": "2025年1月29日为春节，此时地球运动至（   ）",
+                "SubQ_Options": {
+                    "A": "①②之间",
+                    "B": "②③之间",
+                    "C": "③④之间",
+                    "D": "④①之间"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "2．",
+                "SubQ_Number": "2",
+                "SubQ_Stem": "当地球运动至②位置时，北京最可能看到的景观是（   ）",
+                "SubQ_Options": {
+                    "C": "不知细叶谁裁出，二月春风似剪刀",
+                    "D": "银烛秋光冷画屏，轻罗小扇扑流萤"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "3．",
+                "SubQ_Number": "3",
+                "SubQ_Stem": "世界1月适宜避寒区主要分布的范围是（   ）",
+                "SubQ_Options": {
+                    "C": "20℃~30℃",
+                    "D": "-10℃~0℃"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "4．",
+                "SubQ_Number": "4",
+                "SubQ_Stem": "以下说法正确的是（   ）",
+                "SubQ_Options": {
+                    "D": "乙不是避寒胜地的原因是终年高温干燥"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "5．",
+                "SubQ_Number": "5",
+                "SubQ_Stem": "世界人口分布比重随纬度变化的规律是（   ）",
+                "SubQ_Options": {
+                    "C": "主要分布在北半球的中低纬度",
+                    "D": "人口均匀分布在各纬度地区"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "6．",
+                "SubQ_Number": "6",
+                "SubQ_Stem": "影响世界人口分布比重随纬度变化的主要因素是（   ）",
+                "SubQ_Options": {
+                    "A": "地形",
+                    "B": "河流",
+                    "C": "热量",
+                    "D": "矿产"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "7．",
+                "SubQ_Number": "7",
+                "SubQ_Stem": "下列关于图中三大半岛共同特征的叙述，正确的是（   ）",
+                "SubQ_Options": {
+                    "C": "以黄色人种为主",
+                    "D": "北回归线穿过"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "8．",
+                "SubQ_Number": "8",
+                "SubQ_Stem": "下列关于图中三大半岛自然环境的差异，说法正确的是（   ）",
+                "SubQ_Options": {
+                    "C": "阿拉伯半岛河流注入太平洋",
+                    "D": "印度半岛沙漠广布"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "9．",
+                "SubQ_Number": "9",
+                "SubQ_Stem": "图中四个馆所在省区及简称、行政中心，搭配正确的是（   ）",
+                "SubQ_Options": {
+                    "C": "浙江省—浙—杭州",
+                    "D": "广东省—闽—广州"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "10．",
+                "SubQ_Number": "10",
+                "SubQ_Stem": "四个馆所在地区，当地年平均降水量在800毫米以下的是（   ）\n①北京总馆②西安分馆③杭州分馆④广州分馆",
+                "SubQ_Options": {
+                    "A": "①③",
+                    "B": "②④",
+                    "C": "①②",
+                    "D": "②③"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "11．",
+                "SubQ_Number": "11",
+                "SubQ_Stem": "该区域气候干旱少雨主要影响河流（   ）",
+                "SubQ_Options": {
+                    "A": "流向",
+                    "B": "流量大小",
+                    "C": "流速快慢",
+                    "D": "结冰期"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "12．",
+                "SubQ_Number": "12",
+                "SubQ_Stem": "下列属于①和②两条河流共同特点的是（   ）",
+                "SubQ_Options": {
+                    "C": "汛期都较长",
+                    "D": "都有结冰期"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "13．",
+                "SubQ_Number": "13",
+                "SubQ_Stem": "下列流域中“最抗冻”的地区主要分布在（   ）",
+                "SubQ_Options": {
+                    "A": "松花江流域",
+                    "B": "黄河流域",
+                    "C": "塔里木河流域",
+                    "D": "长江流域"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "14．",
+                "SubQ_Number": "14",
+                "SubQ_Stem": "使人们一夜之间由夏装转为冬装的特殊天气可能是（   ）",
+                "SubQ_Options": {
+                    "A": "伏旱",
+                    "B": "梅雨",
+                    "C": "台风",
+                    "D": "寒潮"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "15．",
+                "SubQ_Number": "15",
+                "SubQ_Stem": "该工程中沉沙池的作用是（   ）",
+                "SubQ_Options": {
+                    "C": "扩大水流面积",
+                    "D": "为了优质水源"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "16．",
+                "SubQ_Number": "16",
+                "SubQ_Stem": "在引黄工程中保持水源洁净的有效措施有（   ）\n①植树种草②退耕还林还草③打坝淤地\n④缓坡修建梯田⑤调节河流径流量",
+                "SubQ_Options": {
+                    "A": "①②⑤",
+                    "B": "②③④⑤",
+                    "C": "①②③④",
+                    "D": "①②④"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "17．",
+                "SubQ_Number": "17",
+                "SubQ_Stem": "图中交通运输方式搭配合理的是（   ）",
+                "SubQ_Options": {
+                    "A": "甲——水运",
+                    "B": "乙——公路",
+                    "C": "丙——铁路",
+                    "D": "丁——航空"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "18．",
+                "SubQ_Number": "18",
+                "SubQ_Stem": "下列运输任务与适宜的运输方式，搭配正确的是（   ）",
+                "SubQ_Options": {
+                    "D": "一批从俄罗斯进口的木材由中俄蒙三角地带的满洲里口岸发往天津——丁"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "19．",
+                "SubQ_Number": "19",
+                "SubQ_Stem": "下列有关盐城的说法正确的是（   ）",
+                "SubQ_Options": {
+                    "C": "盐城全部属于南方地区",
+                    "D": "盐城被称为“东方湿地之都”"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            },
+            {
+                "SubQ_NumberOriginal": "20．",
+                "SubQ_Number": "20",
+                "SubQ_Stem": "暑假期间，小明想了解盐城的红色文化，你推荐他去（   ）",
+                "SubQ_Options": {
+                    "C": "东台条子泥湿地公园",
+                    "D": "盐城国家珍食自然保护区"
+                },
+                "SubQ_CorrectAnswer": null,
+                "SubQ_Explanation": null
+            }
+        ],
+        "Difficulty": null,
+        "KnowledgePoint": null
+    }
+]
